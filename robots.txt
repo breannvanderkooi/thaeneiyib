@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://weebeyezeo.viewcont.com/sitemap.xml
